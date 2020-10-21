@@ -1,4 +1,4 @@
-# php_CRUD_
+# PHP - CRUD
 Just some practices with Php.
 I was trying to learn how to do a CRUD in php , so i followed a tutorial on Youtube by Nitish Kumar, 
 here the link to the playlist : https://www.youtube.com/playlist?list=PLXbYsh3rUPSxsOtkLVmpPrgilYNR8I7r4 . 
